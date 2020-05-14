@@ -24,6 +24,11 @@
 
   .quantity {
     padding-left: 20px;
+    
+    .arrow {
+      margin: 0 10px;
+      cursor: pointer;
+    }
   }
 
   .remove-button {
